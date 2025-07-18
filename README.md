@@ -30,7 +30,7 @@ It includes:
 
 Here’s a screenshot showing automatically sorted folders by file type:
 
-![Project Output Screenshot]()
+![Project Output Screenshot](Screenshot 2025-07-18 095736.png)
 
 ---
 
