@@ -30,7 +30,7 @@ It includes:
 
 Here’s a screenshot showing automatically sorted folders by file type:
 
-![Project Output Screenshot](Screenshot 2025-07-18 095736.png)
+![Project Output Screenshot]([https://github.com/aryanwagh9804/Ai-powered-Smart-File-Organizer/blob/main/Screenshot%202025-07-18%20095736.png])
 
 ---
 
