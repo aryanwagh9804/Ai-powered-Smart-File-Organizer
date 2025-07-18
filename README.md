@@ -44,7 +44,4 @@ Here’s a screenshot showing automatically sorted folders by file type:
 | File System   | OS, shutil                         |
 | Deployment    | Run as background script or REST API|
 
----
-
-## 📁 Folder Structure
 
